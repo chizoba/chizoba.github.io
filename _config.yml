@@ -1,2 +1,4 @@
 name: Chizoba Ogbonna
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
